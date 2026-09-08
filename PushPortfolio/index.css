@@ -149,14 +149,7 @@ header a:hover {
   margin-right: 40px;
   border: 1px solid ;
 }
-.proj2 {
-    display: inline-block;
-  width: 45%;
-    background: rgb(187, 150, 189);
-    border-top: 1px solid pink;
-    border-bottom: 1px solid pink;
-     border: 1px solid ;
-}
+
 .proj1 h3 {
     text-transform: uppercase;
     padding: 5px;
