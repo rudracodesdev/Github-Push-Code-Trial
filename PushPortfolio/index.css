@@ -224,12 +224,7 @@ header a:hover {
 #skills ul li:nth-of-type(2) {
     margin-right: 40px;
 }
-/* #skills ul li:hover {
-    
-    color: brown;
-    background: rgb(27, 156, 189);
-    transform: scaleX(1.1) ;
-} */
+
 
 #intro {
     border: 1px solid white;
