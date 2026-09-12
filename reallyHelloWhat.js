@@ -11,6 +11,6 @@ console.log("I have Set of targets to complete in 1st year.");
 console.log("It is more like growing forest but watering none of the Trees.");
 console.log("Looks like I need to change my way of learning. LETS-");
 console.log("start REVISING instead of LEARNING.");
-console.log("It's a long race (say Marathon) so instead of Running fast from early and exhausting yourself-");
+
 
 
