@@ -13,5 +13,5 @@ console.log("Looks like I need to change my way of learning. LETS-");
 console.log("start REVISING instead of LEARNING.");
 console.log("It's a long race (say Marathon) so instead of Running fast from early and exhausting yourself-");
 console.log("it's better to slow some pace.");
-console.log("WELL THEN WISH ME GOOD LUCK EVERYONE WHO WATCH THIS.");
+
 
