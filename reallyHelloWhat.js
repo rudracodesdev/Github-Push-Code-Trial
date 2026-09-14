@@ -10,7 +10,7 @@ console.log("Crazy How I Learnt Basic of Languages like Java, C++, Python but re
 console.log("I have Set of targets to complete in 1st year.");
 console.log("It is more like growing forest but watering none of the Trees.");
 console.log("Looks like I need to change my way of learning. LETS-");
-console.log("start REVISING instead of LEARNING.");
+
 
 
 
