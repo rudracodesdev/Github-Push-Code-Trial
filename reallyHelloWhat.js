@@ -7,7 +7,6 @@ console.log("I studied almost most of the popular thing you can think about like
 console.log("DBMS, OOPS, SQL, HTML, CSS, DataAnalytics(Theory Only), Algo except-");
 console.log("the king DSA. Maybe only Array Done.");
 console.log("Crazy How I Learnt Basic of Languages like Java, C++, Python but remember none");
-console.log("I have Set of targets to complete in 1st year.");
 
 
 
